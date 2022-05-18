@@ -1,0 +1,2 @@
+# beautifulSoup
+beautifulSoup metodu uygulamasi
